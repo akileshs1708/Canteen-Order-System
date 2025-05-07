@@ -1,7 +1,7 @@
 # Canteen Bitemate
 Canteen Food Ordering System
 
-A Python-based canteen food ordering system with a GUI built using Tkinter and data storage powered by CSV files. **Canteenie** enables efficient order processing, inventory management, and secure admin/customer access – all from a simple desktop interface.
+A Python-based canteen food ordering system with a GUI built using Tkinter and data storage powered by CSV files. It enables efficient order processing, inventory management, and secure admin/customer access – all from a simple desktop interface.
 
 ---
 
