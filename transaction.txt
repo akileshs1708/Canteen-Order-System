@@ -1,0 +1,37 @@
+Item Name	Quantity	Price
+Tomato Rice	2	$140.00
+Item Name	Quantity	Price
+Parota	2	$30.00
+Item Name	Quantity	Price
+Vada Pav	1	$15.00
+Parota	1	$15.00
+Item Name	Quantity	Price
+Samosa	2	$20.00
+Item Name	Quantity	Price
+Samosa	1	$10.00
+Vada Pav	1	$15.00
+Item Name	Quantity	Price
+Vada Pav	1	$15.00
+Item Name	Quantity	Price
+Vada Pav	1	$15.00
+Item Name	Quantity	Price
+Vada Pav	1	$15.00
+Item Name	Quantity	Price
+Bhel Puri	1	$25.00
+Item Name	Quantity	Price
+Pani Puri	1	$10.00
+Item Name	Quantity	Price
+Samosa	1	$10.00
+Item Name	Quantity	Price
+Samosa	1	$10.00
+Item Name	Quantity	Price
+Samosa	2	$20.00
+Vada/Bajji	1	$15.00
+Masala Dosa	1	$40.00
+Item Name	Quantity	Price
+Samosa	1	$10.00
+Pakoda	1	$20.00
+Parota	1	$15.00
+Soft Drink	1	$30.00
+Item Name	Quantity	Price
+Biscuit	20	$100.00

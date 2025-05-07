@@ -1,0 +1,13 @@
+Item Name	Quantity	Price
+Biscuit	2	$10.00
+Poori	2	$110.00
+Item Name	Quantity	Price
+Biscuit	1	$5.00
+Item Name	Quantity	Price
+Poori	1	$55.00
+Item Name	Quantity	Price
+Biscuit	1	$5.00
+Item Name	Quantity	Price
+Biscuit	1	$5.00
+Item Name	Quantity	Price
+Pakora	1	$20.00
